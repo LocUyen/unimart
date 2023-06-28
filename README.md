@@ -4,8 +4,8 @@
 
 # Bước 3: mở terminal vào đường dẫn thư mục unimart
 - Để tải thư mục vendor/ nhập dòng lệnh
-composer update
++ composer update
 - Để chạy .env nhập các dòng lệnh
-php artisan key:generate
-php artisan cache:clear 
-php artisan config:clear
++ php artisan key:generate
++ php artisan cache:clear 
++ php artisan config:clear
