@@ -17,3 +17,8 @@
 + php artisan key:generate
 + php artisan cache:clear 
 + php artisan config:clear
+
+#Đường dẫn web bán hàng
+-http://localhost/unimart/
+#Đường dẫn đến admin
+-http://localhost/unimart/admin
